@@ -1,5 +1,5 @@
-Description of files sent with the project.
-PDF files
+Description of files in the project.
+PDF file
 1)	TS Rahul Yadav REPORT.pdf
 Project report in PDF format
 
